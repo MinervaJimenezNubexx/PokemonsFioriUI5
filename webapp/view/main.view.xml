@@ -22,14 +22,14 @@
                     class = "sapUITinyMargin">
 				</Button>
 
-                	<Button id = "subButton"
+                <Button id = "subButton"
                     type = "Default" 
                     text = "{i18n>subButton}"
                     press = "onPress"
                     class = "sapUITinyMargin">
 				</Button>
 
-                    <Button id = "multButton"
+                <Button id = "multButton"
                     type = "Default" 
                     text = "{i18n>multButton}"
                     press = "onPress"
