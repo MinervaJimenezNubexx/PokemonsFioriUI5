@@ -1,6 +1,10 @@
 <mvc:View controllerName="com.nubexx.hr.pokemonfiori.controller.main"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true" 
-    xmlns="sap.m">
+    xmlns:core="sap.ui.core"
+    xmlns:fb="sap.ui.comp.filterbar"
+    xmlns:l="sap.ui.layout"
+    xmlns="sap.m"
+    >
     <Page id="page" title="{i18n>title}">
 
         <content>
@@ -9,6 +13,78 @@
 
             <Label text = "{i18n>secondDigit}" labelFor="input-b"/>
             <Input id = "input-b" type = "Number" required="true"/>
+
+            <!-- <Input value = "{modelo1>/propiedad1}"></Input> -->
+
+            <l:VerticalLayout width="100%">
+                    <Label text="FilterBar"/>
+                    <fb:FilterBar reset="onReset" search="onSearch" showRestoreButton="true" showClearButton="true">
+                        <fb:filterGroupItems>
+
+                            <fb:FilterGroupItem groupName="__$INTERNAL$" name="B" label="numPokedex" labelTooltip="Tooltip Example" mandatory="true" partOfCurrentVariant="true" visibleInFilterBar="true">
+                                <fb:control>
+                                    <ComboBox type="Text">
+                                        <items>
+                                            <core:Item key="{Pokemon>numPokedex}"/>
+                                        </items>
+                                    </ComboBox>
+                                </fb:control>
+                            </fb:FilterGroupItem>
+			
+                        </fb:filterGroupItems>				
+                                
+                    </fb:FilterBar>		
+                </l:VerticalLayout>
+
+            <Table id="idPokemonsTable"
+		        items="{Pokemon>/pokemons}">  <!-- nombreModelo>/nombreListaDelJson-->
+                <columns>
+			        <Column width="12em">
+				        <Text text="numPokedex" />
+			        </Column>
+                    <Column width="12em">
+				        <Text text="nombre" />
+			        </Column>
+                    <Column width="12em">
+				        <Text text="tipo1" />
+			        </Column>
+                    <Column width="12em">
+				        <Text text="tipo2" />
+			        </Column>
+                    <Column width="12em">
+				        <Text text="peso" />
+			        </Column>
+                    <Column width="12em">
+				        <Text text="altura" />
+			        </Column>
+                    <Column width="12em">
+				        <Text text="descripción" />
+			        </Column>
+                </columns>
+                <items>
+			        <ColumnListItem>
+				        <cells>
+                            <Text
+						        text="{Pokemon>numPokedex}" />
+                            <Text
+						        text="{Pokemon>nombre}" />
+                            <Text
+						        text="{Pokemon>tipo1}" />
+                            <Text
+						        text="{Pokemon>tipo2}" />
+                            <Text
+						        text="{Pokemon>peso}" />
+                            <Text
+						        text="{Pokemon>altura}" />
+                            <Text
+						        text="{Pokemon>descripción}" />
+					        
+                	    </cells>
+			        </ColumnListItem>
+		        </items>
+        	</Table>
+
+
         </content>
 
         <footer>

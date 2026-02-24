@@ -1,0 +1,1213 @@
+{
+    "pokemons": [{
+            "numPokedex": 1,
+            "nombre": "Bulbasaur",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 6.9,
+            "altura": 0.7,
+            "descripción": "La bulbo que lleva en la espalda está llena de nutrientes. Esa bulbo crece junto con él."
+        }, {
+            "numPokedex": 2,
+            "nombre": "Ivysaur",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 13.0,
+            "altura": 1.0,
+            "descripción": "Cuando absorbe la luz solar, el bulbo que lleva en la espalda crece. Este Pokémon no duerme durante el día."
+        }, {
+            "numPokedex": 3,
+            "nombre": "Venusaur",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 100.0,
+            "altura": 2.0,
+            "descripción": "El aroma que desprende su flor tiene un efecto calmante sobre la gente. Crece absorbiendo la luz solar."
+        }, {
+            "numPokedex": 4,
+            "nombre": "Charmander",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 8.5,
+            "altura": 0.6,
+            "descripción": "La llama de su cola es indicio de su vitalidad. Si llega a apagarse, este Pokémon morirá."
+        }, {
+            "numPokedex": 5,
+            "nombre": "Charmeleon",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 19.0,
+            "altura": 1.1,
+            "descripción": "En el extremo de su larga y sinuosa cola arde una llama. Cuanto más intensa es la llama, más fuerte es el Pokémon."
+        }, {
+            "numPokedex": 6,
+            "nombre": "Charizard",
+            "tipo1": "Fuego",
+            "tipo2": "Volador",
+            "peso": 90.5,
+            "altura": 1.7,
+            "descripción": "Escupe un fuego tan potente que puede derretir rocas. Causa incendios forestales sin querer."
+        }, {
+            "numPokedex": 7,
+            "nombre": "Squirtle",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 9.0,
+            "altura": 0.5,
+            "descripción": "Expulsa agua a gran presión desde los tubos de su caparazón para atacar."
+        }, {
+            "numPokedex": 8,
+            "nombre": "Wartortle",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 22.5,
+            "altura": 1.0,
+            "descripción": "Las orejas en espiral que tiene en las mejillas pueden oír sonidos lejanos."
+        }, {
+            "numPokedex": 9,
+            "nombre": "Blastoise",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 85.5,
+            "altura": 1.6,
+            "descripción": "Tiene cañones de agua en el caparazón de su espalda."
+        }, {
+            "numPokedex": 10,
+            "nombre": "Caterpie",
+            "tipo1": "Bicho",
+            "tipo2": "",
+            "peso": 2.9,
+            "altura": 0.3,
+            "descripción": "Echa un hedor horrible desde las antenas de su cabeza para repeler a sus enemigos."
+        }, {
+            "numPokedex": 11,
+            "nombre": "Metapod",
+            "tipo1": "Bicho",
+            "tipo2": "",
+            "peso": 9.9,
+            "altura": 0.7,
+            "descripción": "Este Pokémon permanece inmóvil en el interior de su caparazón."
+        }, {
+            "numPokedex": 12,
+            "nombre": "Butterfree",
+            "tipo1": "Bicho",
+            "tipo2": "Volador",
+            "peso": 32.0,
+            "altura": 1.1,
+            "descripción": "Cubre al enemigo con una escama venenosa que desprenden sus alas."
+        }, {
+            "numPokedex": 13,
+            "nombre": "Weedle",
+            "tipo1": "Bicho",
+            "tipo2": "Veneno",
+            "peso": 3.2,
+            "altura": 0.3,
+            "descripción": "El aguijón venenoso de su cabeza gotea un potente tóxico."
+        }, {
+            "numPokedex": 14,
+            "nombre": "Kakuna",
+            "tipo1": "Bicho",
+            "tipo2": "Veneno",
+            "peso": 10.0,
+            "altura": 0.6,
+            "descripción": "A pesar de parecer inerte, el interior de su caparazón está en plena actividad."
+        }, {
+            "numPokedex": 15,
+            "nombre": "Beedrill",
+            "tipo1": "Bicho",
+            "tipo2": "Veneno",
+            "peso": 29.5,
+            "altura": 1.0,
+            "descripción": "Clava los aguijones venenosos que tiene en el extremo de sus brazos."
+        }, {
+            "numPokedex": 16,
+            "nombre": "Pidgey",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 1.8,
+            "altura": 0.3,
+            "descripción": "Levanta ráfagas de arena con sus alas para cegar al enemigo."
+        }, {
+            "numPokedex": 17,
+            "nombre": "Pidgeotto",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 30.0,
+            "altura": 1.1,
+            "descripción": "Es muy territorial. Hay muchos entrenadores que lo usan como Pokémon mensajero."
+        }, {
+            "numPokedex": 18,
+            "nombre": "Pidgeot",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 39.5,
+            "altura": 1.5,
+            "descripción": "Sus magníficas alas pueden crear un huracán."
+        }, {
+            "numPokedex": 19,
+            "nombre": "Rattata",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 3.5,
+            "altura": 0.3,
+            "descripción": "Sus dientes no paran de crecer, así que roe todo lo que encuentra."
+        }, {
+            "numPokedex": 20,
+            "nombre": "Raticate",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 18.5,
+            "altura": 0.7,
+            "descripción": "Sus dientes poderosos pueden roer estructuras hidráulicas de acero macizo."
+        }, {
+            "numPokedex": 21,
+            "nombre": "Spearow",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 2.0,
+            "altura": 0.3,
+            "descripción": "No sabe volar alto ni hacer viajes largos."
+        }, {
+            "numPokedex": 22,
+            "nombre": "Fearow",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 38.0,
+            "altura": 1.5,
+            "descripción": "Con su largo y afilado pico clava a sus presas en el suelo."
+        }, {
+            "numPokedex": 23,
+            "nombre": "Ekans",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 6.9,
+            "altura": 2.0,
+            "descripción": "Se desliza por el suelo sin hacer ruido. Engulle a sus presas enteras."
+        }, {
+            "numPokedex": 24,
+            "nombre": "Arbok",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 65.0,
+            "altura": 3.5,
+            "descripción": "Los dibujos de su cuerpo intimidan a sus rivales."
+        }, {
+            "numPokedex": 25,
+            "nombre": "Pikachu",
+            "tipo1": "Eléctrico",
+            "tipo2": "",
+            "peso": 6.0,
+            "altura": 0.4,
+            "descripción": "Cuando se enfada, su cola se eriza y lanza descargas eléctricas."
+        }, {
+            "numPokedex": 26,
+            "nombre": "Raichu",
+            "tipo1": "Eléctrico",
+            "tipo2": "",
+            "peso": 30.0,
+            "altura": 0.8,
+            "descripción": "Su cola larga sirve como toma de tierra para descargar la electricidad."
+        }, {
+            "numPokedex": 27,
+            "nombre": "Sandshrew",
+            "tipo1": "Tierra",
+            "tipo2": "",
+            "peso": 12.0,
+            "altura": 0.6,
+            "descripción": "Excava nidos a 20 metros bajo tierra."
+        }, {
+            "numPokedex": 28,
+            "nombre": "Sandslash",
+            "tipo1": "Tierra",
+            "tipo2": "",
+            "peso": 29.5,
+            "altura": 1.0,
+            "descripción": "Sus afiladas garras pueden desgarrar rocas."
+        }, {
+            "numPokedex": 29,
+            "nombre": "Nidoran♀",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 7.0,
+            "altura": 0.4,
+            "descripción": "La protuberancia de su cuerno segrega un potente veneno."
+        }, {
+            "numPokedex": 30,
+            "nombre": "Nidorina",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 20.0,
+            "altura": 0.8,
+            "descripción": "La protuberancia de su espalda segrega un olor que atrae a los machos."
+        }, {
+            "numPokedex": 31,
+            "nombre": "Nidoqueen",
+            "tipo1": "Veneno",
+            "tipo2": "Tierra",
+            "peso": 60.0,
+            "altura": 1.3,
+            "descripción": "Su robusto cuerpo está lleno de escamas duras."
+        }, {
+            "numPokedex": 32,
+            "nombre": "Nidoran♂",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 9.0,
+            "altura": 0.5,
+            "descripción": "El cuerno de su cabeza está lleno de veneno."
+        }, {
+            "numPokedex": 33,
+            "nombre": "Nidorino",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 19.0,
+            "altura": 0.9,
+            "descripción": "Si se excita, segrega veneno del cuerno de su cabeza."
+        }, {
+            "numPokedex": 34,
+            "nombre": "Nidoking",
+            "tipo1": "Veneno",
+            "tipo2": "Tierra",
+            "peso": 62.0,
+            "altura": 1.4,
+            "descripción": "Sus brazos poderosos pueden derribar un edificio."
+        }, {
+            "numPokedex": 35,
+            "nombre": "Clefairy",
+            "tipo1": "Hada",
+            "tipo2": "",
+            "peso": 7.5,
+            "altura": 0.6,
+            "descripción": "Sus alas brillan cuando canta bajo la luna llena."
+        }, {
+            "numPokedex": 36,
+            "nombre": "Clefable",
+            "tipo1": "Hada",
+            "tipo2": "",
+            "peso": 40.0,
+            "altura": 1.3,
+            "descripción": "Sus alas emiten un sonido que calma los corazones."
+        }, {
+            "numPokedex": 37,
+            "nombre": "Vulpix",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 9.9,
+            "altura": 0.6,
+            "descripción": "Al nacer tiene una sola cola, pero esta se divide a medida que crece."
+        }, {
+            "numPokedex": 38,
+            "nombre": "Ninetales",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 19.9,
+            "altura": 1.1,
+            "descripción": "Dicen que vive mil años y cada cola contiene su sabiduría."
+        }, {
+            "numPokedex": 39,
+            "nombre": "Jigglypuff",
+            "tipo1": "Normal",
+            "tipo2": "Hada",
+            "peso": 5.5,
+            "altura": 0.5,
+            "descripción": "Si canta, todos los oyentes se quedan dormidos."
+        }, {
+            "numPokedex": 40,
+            "nombre": "Wigglytuff",
+            "tipo1": "Normal",
+            "tipo2": "Hada",
+            "peso": 12.0,
+            "altura": 1.0,
+            "descripción": "Sus orejas son sensibles al sonido. Se estiran para captar ondas sonoras lejanas."
+        }, {
+            "numPokedex": 41,
+            "nombre": "Zubat",
+            "tipo1": "Veneno",
+            "tipo2": "Volador",
+            "peso": 7.5,
+            "altura": 0.8,
+            "descripción": "Vive en cavernas oscuras. Emite ondas ultrasónicas para detectar obstáculos."
+        }, {
+            "numPokedex": 42,
+            "nombre": "Golbat",
+            "tipo1": "Veneno",
+            "tipo2": "Volador",
+            "peso": 55.0,
+            "altura": 1.6,
+            "descripción": "Sus ojos rojos brillan cuando busca presas. Es feroz y veloz."
+        }, {
+            "numPokedex": 43,
+            "nombre": "Oddish",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 5.4,
+            "altura": 0.5,
+            "descripción": "Por la noche busca sitios húmedos. Durante el día se esconde bajo tierra."
+        }, {
+            "numPokedex": 44,
+            "nombre": "Gloom",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 8.6,
+            "altura": 0.8,
+            "descripción": "El hedor de su flor hace llorar a los que lo huelen. Es muy tóxico."
+        }, {
+            "numPokedex": 45,
+            "nombre": "Vileplume",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 18.6,
+            "altura": 1.2,
+            "descripción": "Sus pétalos tóxicos absorben luz solar y producen veneno. Es muy potente."
+        }, {
+            "numPokedex": 46,
+            "nombre": "Paras",
+            "tipo1": "Bicho",
+            "tipo2": "Planta",
+            "peso": 5.4,
+            "altura": 0.3,
+            "descripción": "Los hongos de su espalda crecen absorbiendo esporas. Controlan su mente."
+        }, {
+            "numPokedex": 47,
+            "nombre": "Parasect",
+            "tipo1": "Bicho",
+            "tipo2": "Planta",
+            "peso": 29.5,
+            "altura": 1.0,
+            "descripción": "El hongo gigante de su espalda ha tomado el control de su cerebro."
+        }, {
+            "numPokedex": 48,
+            "nombre": "Venonat",
+            "tipo1": "Bicho",
+            "tipo2": "Veneno",
+            "peso": 30.0,
+            "altura": 1.0,
+            "descripción": "Sus ojos grandes son sensores de calor. Caza de noche."
+        }, {
+            "numPokedex": 49,
+            "nombre": "Venomoth",
+            "tipo1": "Bicho",
+            "tipo2": "Veneno",
+            "peso": 12.5,
+            "altura": 1.5,
+            "descripción": "Sus alas están cubiertas de escamas tóxicas. Las agita para envenenar."
+        }, {
+            "numPokedex": 50,
+            "nombre": "Diglett",
+            "tipo1": "Tierra",
+            "tipo2": "",
+            "peso": 0.8,
+            "altura": 0.2,
+            "descripción": "Excava a gran velocidad. Deja solo la cabeza fuera para observar."
+        }, {
+            "numPokedex": 51,
+            "nombre": "Dugtrio",
+            "tipo1": "Tierra",
+            "tipo2": "",
+            "peso": 33.3,
+            "altura": 0.7,
+            "descripción": "Sus tres cabezas excavan a gran velocidad. Pueden crear túneles complejos."
+        }, {
+            "numPokedex": 52,
+            "nombre": "Meowth",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 4.2,
+            "altura": 0.4,
+            "descripción": "Camina a menudo por toda la ciudad para afilar las uñas en las aceras."
+        }, {
+            "numPokedex": 53,
+            "nombre": "Persian",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 32.0,
+            "altura": 1.0,
+            "descripción": "Aunque es muy elegante, su temperamento es salvaje. Es muy difícil de controlar."
+        }, {
+            "numPokedex": 54,
+            "nombre": "Psyduck",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 19.6,
+            "altura": 0.8,
+            "descripción": "Se coge la cabeza con las patas cuando sufre intensos dolores de cabeza."
+        }, {
+            "numPokedex": 55,
+            "nombre": "Golduck",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 76.6,
+            "altura": 1.7,
+            "descripción": "Nada con una velocidad increíble. Es el rey de los nadadores acuáticos."
+        }, {
+            "numPokedex": 56,
+            "nombre": "Mankey",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 28.0,
+            "altura": 0.5,
+            "descripción": "Le irrita cualquier cosa. Su cólera es tan grande que no puede controlarse."
+        }, {
+            "numPokedex": 57,
+            "nombre": "Primeape",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 32.0,
+            "altura": 1.0,
+            "descripción": "Si pierde de vista a su enemigo, se pone furioso y comienza a golpear árboles."
+        }, {
+            "numPokedex": 58,
+            "nombre": "Growlithe",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 19.0,
+            "altura": 0.7,
+            "descripción": "Es leal a su entrenador. Muy valiente, lucha sin descanso para protegerlo."
+        }, {
+            "numPokedex": 59,
+            "nombre": "Arcanine",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 155.0,
+            "altura": 1.9,
+            "descripción": "Es un Pokémon majestuoso. Corre a una velocidad de 100 km/h sin cansarse."
+        }, {
+            "numPokedex": 60,
+            "nombre": "Poliwag",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 12.4,
+            "altura": 0.6,
+            "descripción": "La piel de su cuerpo es tan fina y resbaladiza que no puede agarrarse bien."
+        }, {
+            "numPokedex": 61,
+            "nombre": "Poliwhirl",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 20.0,
+            "altura": 1.0,
+            "descripción": "El espiral de su barriga es muy hipnótico. Lo mira todo el mundo."
+        }, {
+            "numPokedex": 62,
+            "nombre": "Poliwrath",
+            "tipo1": "Agua",
+            "tipo2": "Lucha",
+            "peso": 54.0,
+            "altura": 1.3,
+            "descripción": "Sus poderosos músculos de puño le permiten destruir rocas sin dificultad."
+        }, {
+            "numPokedex": 63,
+            "nombre": "Abra",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 19.5,
+            "altura": 0.9,
+            "descripción": "Utiliza sus poderes psíquicos para mover objetos aunque duerme 18 horas."
+        }, {
+            "numPokedex": 64,
+            "nombre": "Kadabra",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 56.5,
+            "altura": 1.3,
+            "descripción": "Aumenta su poder psíquico sosteniendo una cuchara. Es muy listo."
+        }, {
+            "numPokedex": 65,
+            "nombre": "Alakazam",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 48.0,
+            "altura": 1.5,
+            "descripción": "Su cerebro se ha desarrollado tanto que pesa más que su propio cuerpo."
+        }, {
+            "numPokedex": 66,
+            "nombre": "Machop",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 19.5,
+            "altura": 0.8,
+            "descripción": "Ama entrenar su cuerpo. Levanta rocas enormes todos los días."
+        }, {
+            "numPokedex": 67,
+            "nombre": "Machoke",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 70.5,
+            "altura": 1.5,
+            "descripción": "La banda de poder que lleva en los brazos contiene su gran fuerza muscular."
+        }, {
+            "numPokedex": 68,
+            "nombre": "Machamp",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 130.0,
+            "altura": 1.6,
+            "descripción": "Tiene cuatro brazos. Con uno puede golpear árboles y derribarlos fácilmente."
+        }, {
+            "numPokedex": 69,
+            "nombre": "Bellsprout",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 4.0,
+            "altura": 0.7,
+            "descripción": "Aunque parece una planta, puede caminar y atrapar insectos con sus raíces."
+        }, {
+            "numPokedex": 70,
+            "nombre": "Weepinbell",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 6.5,
+            "altura": 1.0,
+            "descripción": "Dispara un líquido pegajoso para atrapar insectos. Los digiere en su interior."
+        }, {
+            "numPokedex": 71,
+            "nombre": "Victreebel",
+            "tipo1": "Planta",
+            "tipo2": "Veneno",
+            "peso": 45.5,
+            "altura": 1.7,
+            "descripción": "Lanza un dulce aroma para atraer presas. Las devora enteras en su boca."
+        }, {
+            "numPokedex": 72,
+            "nombre": "Tentacool",
+            "tipo1": "Agua",
+            "tipo2": "Veneno",
+            "peso": 45.5,
+            "altura": 0.9,
+            "descripción": "Deriva por el océano agarrándose a las rocas. Su cuerpo es casi transparente."
+        }, {
+            "numPokedex": 73,
+            "nombre": "Tentacruel",
+            "tipo1": "Agua",
+            "tipo2": "Veneno",
+            "peso": 55.0,
+            "altura": 1.6,
+            "descripción": "Tiene 80 tentáculos que usa para atrapar presas. Sus tentáculos inyectan veneno."
+        }, {
+            "numPokedex": 74,
+            "nombre": "Geodude",
+            "tipo1": "Roca",
+            "tipo2": "Tierra",
+            "peso": 20.0,
+            "altura": 0.4,
+            "descripción": "Se encuentra en rocallas. Se agarra a las rocas con sus brazos para no caer."
+        }, {
+            "numPokedex": 75,
+            "nombre": "Graveler",
+            "tipo1": "Roca",
+            "tipo2": "Tierra",
+            "peso": 105.0,
+            "altura": 1.0,
+            "descripción": "Rueda por las montañas para entrenar. Es muy resistente."
+        }, {
+            "numPokedex": 76,
+            "nombre": "Golem",
+            "tipo1": "Roca",
+            "tipo2": "Tierra",
+            "peso": 300.0,
+            "altura": 1.4,
+            "descripción": "Su cuerpo está duro como diamante. Puede vivir en el fondo del mar."
+        }, {
+            "numPokedex": 77,
+            "nombre": "Ponyta",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 30.0,
+            "altura": 1.0,
+            "descripción": "Sus patas pueden correr a 100 km/h. Galopa por las praderas sin cansarse."
+        }, {
+            "numPokedex": 78,
+            "nombre": "Rapidash",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 95.0,
+            "altura": 1.7,
+            "descripción": "Corre a una velocidad de 150 km/h. Su melena arde cuando galopa."
+        }, {
+            "numPokedex": 79,
+            "nombre": "Slowpoke",
+            "tipo1": "Agua",
+            "tipo2": "Psíquico",
+            "peso": 36.0,
+            "altura": 1.2,
+            "descripción": "Siempre tiene cara de despistado. Su cola es muy sensible."
+        }, {
+            "numPokedex": 80,
+            "nombre": "Slowbro",
+            "tipo1": "Agua",
+            "tipo2": "Psíquico",
+            "peso": 78.0,
+            "altura": 1.6,
+            "descripción": "Un Shellder se ha agarrado a su cola y no se suelta nunca."
+        }, {
+            "numPokedex": 81,
+            "nombre": "Magnemite",
+            "tipo1": "Eléctrico",
+            "tipo2": "Acero",
+            "peso": 6.0,
+            "altura": 0.3,
+            "descripción": "Flota usando ondas electromagnéticas. Puede generar tormentas."
+        }, {
+            "numPokedex": 82,
+            "nombre": "Magneton",
+            "tipo1": "Eléctrico",
+            "tipo2": "Acero",
+            "peso": 60.0,
+            "altura": 1.0,
+            "descripción": "Tres Magnemite unidos. Su campo magnético es muy potente."
+        }, {
+            "numPokedex": 83,
+            "nombre": "Farfetch'd",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 15.0,
+            "altura": 0.8,
+            "descripción": "Siempre lleva un puerro como arma. Es muy raro verlo."
+        }, {
+            "numPokedex": 84,
+            "nombre": "Doduo",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 39.2,
+            "altura": 1.1,
+            "descripción": "Tiene dos cabezas. Cada cabeza tiene su propia personalidad."
+        }, {
+            "numPokedex": 85,
+            "nombre": "Dodrio",
+            "tipo1": "Normal",
+            "tipo2": "Volador",
+            "peso": 85.0,
+            "altura": 1.8,
+            "descripción": "Sus tres cabezas pueden comer al mismo tiempo. Es muy agresivo."
+        }, {
+            "numPokedex": 86,
+            "nombre": "Seel",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 36.0,
+            "altura": 1.1,
+            "descripción": "Su cuerno tiene poderes curativos. Ama nadar en hielo."
+        }, {
+            "numPokedex": 87,
+            "nombre": "Dewgong",
+            "tipo1": "Agua",
+            "tipo2": "Hielo",
+            "peso": 120.0,
+            "altura": 1.7,
+            "descripción": "Su cuerpo blanco y lustroso le ayuda a deslizarse sobre el hielo."
+        }, {
+            "numPokedex": 88,
+            "nombre": "Grimer",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 30.0,
+            "altura": 0.9,
+            "descripción": "Nace en vertederos de basura. Absorbe todo tipo de desechos."
+        }, {
+            "numPokedex": 89,
+            "nombre": "Muk",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 55.0,
+            "altura": 1.2,
+            "descripción": "Es muy tóxico. Un solo toque puede causar graves quemaduras."
+        }, {
+            "numPokedex": 90,
+            "nombre": "Shellder",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 4.0,
+            "altura": 0.4,
+            "descripción": "Cierra su concha muy fuerte. Puede disparar agua a presión."
+        }, {
+            "numPokedex": 91,
+            "nombre": "Cloyster",
+            "tipo1": "Agua",
+            "tipo2": "Hielo",
+            "peso": 132.0,
+            "altura": 1.5,
+            "descripción": "Su concha es la más dura del mundo Pokémon. Nada de puede romper."
+        }, {
+            "numPokedex": 92,
+            "nombre": "Gastly",
+            "tipo1": "Fantasma",
+            "tipo2": "Veneno",
+            "peso": 0.1,
+            "altura": 1.3,
+            "descripción": "Está hecho de gas. Puede infiltrarse por cualquier grieta."
+        }, {
+            "numPokedex": 93,
+            "nombre": "Haunter",
+            "tipo1": "Fantasma",
+            "tipo2": "Veneno",
+            "peso": 0.1,
+            "altura": 1.6,
+            "descripción": "Agarra a la gente por detrás y la lame. Su lengua causa escalofríos."
+        }, {
+            "numPokedex": 94,
+            "nombre": "Gengar",
+            "tipo1": "Fantasma",
+            "tipo2": "Veneno",
+            "peso": 40.5,
+            "altura": 1.5,
+            "descripción": "Se esconde en la oscuridad. Roba el calor del que duerme."
+        }, {
+            "numPokedex": 95,
+            "nombre": "Onix",
+            "tipo1": "Roca",
+            "tipo2": "Tierra",
+            "peso": 210.0,
+            "altura": 8.8,
+            "descripción": "Su cuerpo está compuesto de 10 segmentos de roca. Excava montañas."
+        }, {
+            "numPokedex": 96,
+            "nombre": "Drowzee",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 32.4,
+            "altura": 1.0,
+            "descripción": "Come sueños. Puede hacer que la gente tenga pesadillas."
+        }, {
+            "numPokedex": 97,
+            "nombre": "Hypno",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 75.6,
+            "altura": 1.6,
+            "descripción": "Balancea su péndulo para hipnotizar. Nunca lo mires fijamente."
+        }, {
+            "numPokedex": 98,
+            "nombre": "Krabby",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 6.5,
+            "altura": 0.5,
+            "descripción": "Sus tijeras son muy afiladas. Puede romper bloques de hielo."
+        }, {
+            "numPokedex": 99,
+            "nombre": "Kingler",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 60.0,
+            "altura": 1.3,
+            "descripción": "Su pinza derecha es enorme. Puede aplastar un barco con ella."
+        }, {
+            "numPokedex": 100,
+            "nombre": "Voltorb",
+            "tipo1": "Eléctrico",
+            "tipo2": "",
+            "peso": 10.5,
+            "altura": 0.5,
+            "descripción": "Se parece a una Poké Ball. Explota si se le molesta."
+        }, {
+            "numPokedex": 101,
+            "nombre": "Electrode",
+            "tipo1": "Eléctrico",
+            "tipo2": "",
+            "peso": 66.5,
+            "altura": 1.2,
+            "descripción": "El Pokémon más rápido del mundo. Explota con gran potencia."
+        }, {
+            "numPokedex": 102,
+            "nombre": "Exeggcute",
+            "tipo1": "Planta",
+            "tipo2": "Psíquico",
+            "peso": 2.5,
+            "altura": 0.4,
+            "descripción": "Seis huevos que trabajan en equipo. Evoluciona si están unidos."
+        }, {
+            "numPokedex": 103,
+            "nombre": "Exeggutor",
+            "tipo1": "Planta",
+            "tipo2": "Psíquico",
+            "peso": 120.0,
+            "altura": 2.0,
+            "descripción": "Cada cabeza tiene su propia voluntad. Se pelean constantemente."
+        }, {
+            "numPokedex": 104,
+            "nombre": "Cubone",
+            "tipo1": "Tierra",
+            "tipo2": "",
+            "peso": 6.5,
+            "altura": 0.5,
+            "descripción": "Lleva el cráneo de su madre. Llora cuando recuerda a su madre."
+        }, {
+            "numPokedex": 105,
+            "nombre": "Marowak",
+            "tipo1": "Tierra",
+            "tipo2": "",
+            "peso": 45.0,
+            "altura": 1.0,
+            "descripción": "Su hueso es un arma letal. Lo lanza con gran precisión."
+        }, {
+            "numPokedex": 106,
+            "nombre": "Hitmonlee",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 21.5,
+            "altura": 1.5,
+            "descripción": "Sus piernas pueden estirarse mucho. Golpea con gran potencia."
+        }, {
+            "numPokedex": 107,
+            "nombre": "Hitmonchan",
+            "tipo1": "Lucha",
+            "tipo2": "",
+            "peso": 50.8,
+            "altura": 1.4,
+            "descripción": "Sus puños son duros como acero. Lanza puñetazos supersónicos."
+        }, {
+            "numPokedex": 108,
+            "nombre": "Lickitung",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 65.5,
+            "altura": 1.2,
+            "descripción": "Su lengua mide 2 metros. Puede atrapar cualquier cosa con ella."
+        }, {
+            "numPokedex": 109,
+            "nombre": "Koffing",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 1.0,
+            "altura": 0.6,
+            "descripción": "Flota usando gases tóxicos. Expulsa humo por todos sus orificios."
+        }, {
+            "numPokedex": 110,
+            "nombre": "Weezing",
+            "tipo1": "Veneno",
+            "tipo2": "",
+            "peso": 9.5,
+            "altura": 1.2,
+            "descripción": "Sus dos cabezas intercambian gases tóxicos. Es muy resistente."
+        }, {
+            "numPokedex": 111,
+            "nombre": "Rhyhorn",
+            "tipo1": "Tierra",
+            "tipo2": "Roca",
+            "peso": 115.0,
+            "altura": 1.0,
+            "descripción": "Carga contra todo lo que encuentra. Su cuerno atraviesa el acero."
+        }, {
+            "numPokedex": 112,
+            "nombre": "Rhydon",
+            "tipo1": "Tierra",
+            "tipo2": "Roca",
+            "peso": 120.0,
+            "altura": 1.9,
+            "descripción": "Protege su cuerpo con una armadura de roca. Su cuerno perfora montañas."
+        }, {
+            "numPokedex": 113,
+            "nombre": "Chansey",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 34.6,
+            "altura": 1.1,
+            "descripción": "Pone huevos todos los días. Cada huevo contiene suerte."
+        }, {
+            "numPokedex": 114,
+            "nombre": "Tangela",
+            "tipo1": "Planta",
+            "tipo2": "",
+            "peso": 35.0,
+            "altura": 1.1,
+            "descripción": "Su cuerpo está cubierto de enredaderas azules. Nadie ha visto su verdadero cuerpo."
+        }, {
+            "numPokedex": 115,
+            "nombre": "Kangaskhan",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 80.0,
+            "altura": 2.2,
+            "descripción": "Siempre lleva a su cría en una bolsa. Es muy protectora."
+        }, {
+            "numPokedex": 116,
+            "nombre": "Horsea",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 8.0,
+            "altura": 0.4,
+            "descripción": "Dispara tinta para confundir enemigos. Su cola actúa como hélice."
+        }, {
+            "numPokedex": 117,
+            "nombre": "Seadra",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 25.0,
+            "altura": 1.2,
+            "descripción": "Sus espinas son muy afiladas. Se clava a las rocas para no flotar."
+        }, {
+            "numPokedex": 118,
+            "nombre": "Goldeen",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 15.0,
+            "altura": 0.6,
+            "descripción": "Nadan en grupos grandes. Sus cuernos son muy ornamentales."
+        }, {
+            "numPokedex": 119,
+            "nombre": "Seaking",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 39.0,
+            "altura": 1.3,
+            "descripción": "Construye nidos con corales. Protege sus huevos con ferocidad."
+        }, {
+            "numPokedex": 120,
+            "nombre": "Staryu",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 4.5,
+            "altura": 0.3,
+            "descripción": "Regenera su cuerpo si encuentra su núcleo rojo. Se adapta a la luna."
+        }, {
+            "numPokedex": 121,
+            "nombre": "Starmie",
+            "tipo1": "Agua",
+            "tipo2": "Psíquico",
+            "peso": 72.0,
+            "altura": 1.1,
+            "descripción": "Gira a gran velocidad. Su núcleo emite ondas psíquicas."
+        }, {
+            "numPokedex": 122,
+            "nombre": "Mr. Mime",
+            "tipo1": "Psíquico",
+            "tipo2": "Hada",
+            "peso": 54.5,
+            "altura": 1.3,
+            "descripción": "Crea paredes invisibles con sus manos. Es un gran mimo."
+        }, {
+            "numPokedex": 123,
+            "nombre": "Scyther",
+            "tipo1": "Bicho",
+            "tipo2": "Volador",
+            "peso": 56.0,
+            "altura": 1.5,
+            "descripción": "Sus guadañas cortan casi cualquier cosa. Es muy veloz."
+        }, {
+            "numPokedex": 124,
+            "nombre": "Jynx",
+            "tipo1": "Hielo",
+            "tipo2": "Psíquico",
+            "peso": 40.6,
+            "altura": 1.4,
+            "descripción": "Su mirada paraliza. Su boca roja es muy expresiva."
+        }, {
+            "numPokedex": 125,
+            "nombre": "Electabuzz",
+            "tipo1": "Eléctrico",
+            "tipo2": "",
+            "peso": 30.5,
+            "altura": 1.1,
+            "descripción": "Le encanta la electricidad. Se alimenta de cables eléctricos."
+        }, {
+            "numPokedex": 126,
+            "nombre": "Magmar",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 44.5,
+            "altura": 1.3,
+            "descripción": "Su cuerpo arde constantemente. Vive cerca de volcanes."
+        }, {
+            "numPokedex": 127,
+            "nombre": "Pinsir",
+            "tipo1": "Bicho",
+            "tipo2": "",
+            "peso": 55.0,
+            "altura": 1.5,
+            "descripción": "Sus pinzas aplastan todo. Puede levantar 10 veces su peso."
+        }, {
+            "numPokedex": 128,
+            "nombre": "Tauros",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 88.4,
+            "altura": 1.4,
+            "descripción": "Corre a 50 km/h. Embiste todo lo que encuentra en su camino."
+        }, {
+            "numPokedex": 129,
+            "nombre": "Magikarp",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 10.0,
+            "altura": 0.9,
+            "descripción": "Es muy débil. Salta fuera del agua constantemente."
+        }, {
+            "numPokedex": 130,
+            "nombre": "Gyarados",
+            "tipo1": "Agua",
+            "tipo2": "Volador",
+            "peso": 235.0,
+            "altura": 6.5,
+            "descripción": "Cuando evoluciona, destruye todo a su alrededor con furia."
+        }, {
+            "numPokedex": 131,
+            "nombre": "Lapras",
+            "tipo1": "Agua",
+            "tipo2": "Hielo",
+            "peso": 220.0,
+            "altura": 2.5,
+            "descripción": "Tiene un caparazón duro. Lleva a la gente en su espalda."
+        }, {
+            "numPokedex": 132,
+            "nombre": "Ditto",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 4.2,
+            "altura": 0.3,
+            "descripción": "Puede transformarse en cualquier Pokémon. Copia perfectamente."
+        }, {
+            "numPokedex": 133,
+            "nombre": "Eevee",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 6.5,
+            "altura": 0.3,
+            "descripción": "Su estructura genética es inestable. Evoluciona de muchas formas."
+        }, {
+            "numPokedex": 134,
+            "nombre": "Vaporeon",
+            "tipo1": "Agua",
+            "tipo2": "",
+            "peso": 29.0,
+            "altura": 1.0,
+            "descripción": "Se disuelve en el agua. Puede detectar vibraciones acuáticas."
+        }, {
+            "numPokedex": 135,
+            "nombre": "Jolteon",
+            "tipo1": "Eléctrico",
+            "tipo2": "",
+            "peso": 24.5,
+            "altura": 0.8,
+            "descripción": "Sus púas generan electricidad. Corre a gran velocidad."
+        }, {
+            "numPokedex": 136,
+            "nombre": "Flareon",
+            "tipo1": "Fuego",
+            "tipo2": "",
+            "peso": 25.0,
+            "altura": 0.9,
+            "descripción": "Almacena fuego en su cola. Lo expulsa a 3000°C."
+        }, {
+            "numPokedex": 137,
+            "nombre": "Porygon",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 36.5,
+            "altura": 0.8,
+            "descripción": "Creado artificialmente. Puede reconstruirse digitalmente."
+        }, {
+            "numPokedex": 138,
+            "nombre": "Omanyte",
+            "tipo1": "Roca",
+            "tipo2": "Agua",
+            "peso": 7.5,
+            "altura": 0.4,
+            "descripción": "Pokémon prehistórico revivido. Sus tentáculos son muy fuertes."
+        }, {
+            "numPokedex": 139,
+            "nombre": "Omastar",
+            "tipo1": "Roca",
+            "tipo2": "Agua",
+            "peso": 35.0,
+            "altura": 1.0,
+            "descripción": "Usa su concha giratoria para aplastar presas. Se extinguió."
+        }, {
+            "numPokedex": 140,
+            "nombre": "Kabuto",
+            "tipo1": "Roca",
+            "tipo2": "Agua",
+            "peso": 12.5,
+            "altura": 0.5,
+            "descripción": "Pokémon fósil. Sus ojos detectan movimientos bajo tierra."
+        }, {
+            "numPokedex": 141,
+            "nombre": "Kabutops",
+            "tipo1": "Roca",
+            "tipo2": "Agua",
+            "peso": 55.2,
+            "altura": 1.3,
+            "descripción": "Cazador de los antiguos mares. Sus brazos cortan cualquier cosa."
+        }, {
+            "numPokedex": 142,
+            "nombre": "Aerodactyl",
+            "tipo1": "Roca",
+            "tipo2": "Volador",
+            "peso": 59.0,
+            "altura": 1.8,
+            "descripción": "Pterosaurio revivido. Vuela a velocidades supersónicas."
+        }, {
+            "numPokedex": 143,
+            "nombre": "Snorlax",
+            "tipo1": "Normal",
+            "tipo2": "",
+            "peso": 460.0,
+            "altura": 2.1,
+            "descripción": "Duerme hasta 30 días seguidos. Come 900 kg de comida al día."
+        }, {
+            "numPokedex": 144,
+            "nombre": "Articuno",
+            "tipo1": "Hielo",
+            "tipo2": "Volador",
+            "peso": 55.2,
+            "altura": 1.8,
+            "descripción": "Legendario ave de hielo. Congela todo lo que toca."
+        }, {
+            "numPokedex": 145,
+            "nombre": "Zapdos",
+            "tipo1": "Eléctrico",
+            "tipo2": "Volador",
+            "peso": 52.6,
+            "altura": 1.6,
+            "descripción": "Legendario ave eléctrica. Crea tormentas con sus alas."
+        }, {
+            "numPokedex": 146,
+            "nombre": "Moltres",
+            "tipo1": "Fuego",
+            "tipo2": "Volador",
+            "peso": 60.0,
+            "altura": 2.0,
+            "descripción": "Legendario ave de fuego. Renace de sus propias cenizas."
+        }, {
+            "numPokedex": 147,
+            "nombre": "Dratini",
+            "tipo1": "Dragón",
+            "tipo2": "",
+            "peso": 3.3,
+            "altura": 1.8,
+            "descripción": "Aunque es pequeño, tiene el orgullo de un dragón poderoso."
+        }, {
+            "numPokedex": 148,
+            "nombre": "Dragonair",
+            "tipo1": "Dragón",
+            "tipo2": "",
+            "peso": 16.5,
+            "altura": 4.2,
+            "descripción": "Sus perlas emiten energía. Controla el clima a su antojo."
+        }, {
+            "numPokedex": 149,
+            "nombre": "Dragonite",
+            "tipo1": "Dragón",
+            "tipo2": "Volador",
+            "peso": 210.0,
+            "altura": 2.2,
+            "descripción": "Puede volar alrededor del mundo. Es muy amable con la gente."
+        }, {
+            "numPokedex": 150,
+            "nombre": "Mewtwo",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 122.0,
+            "altura": 2.0,
+            "descripción": "Creado por genio humano. Su poder psíquico es inmenso."
+        }, {
+            "numPokedex": 151,
+            "nombre": "Mew",
+            "tipo1": "Psíquico",
+            "tipo2": "",
+            "peso": 4.0,
+            "altura": 0.4,
+            "descripción": "Ancestro de todos los Pokémon. Puede usar todos los ataques."
+        }
+    ]
+
+}

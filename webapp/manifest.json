@@ -14,7 +14,14 @@
       "id": "@sap/generator-fiori:basic",
       "version": "1.20.3",
       "toolsId": "ca5c140e-d050-462e-9c35-eca50f5dca95"
+    },
+    "dataSources": {
+      "pokemonSource":{
+        "uri": "model/pokemon.json",
+        "type": "JSON"
+      }
     }
+
   },
   "sap.ui": {
     "technology": "UI5",
@@ -51,6 +58,11 @@
         "settings": {
           "bundleName": "com.nubexx.hr.pokemonfiori.i18n.i18n"
         }
+      },
+      "Pokemon":{
+        "dataSource": "pokemonSource",
+        "type": "sap.ui.model.json.JSONModel",
+        "preload": true
       }
     },
     "resources": {
